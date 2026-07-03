@@ -46,3 +46,19 @@ settings:
   bounty-increase:
     min: 3000.0
     max: 5000.0
+
+📊 Integrazione PlaceholderAPI (TAB & Scoreboard)
+Il plugin si registra nativamente su PlaceholderAPI. Puoi usare il seguente segnaposto:
+
+%bounty_val%
+
+Cosa mostra: Restituisce la taglia formattata in questo modo:  ☠ 5000€ (mostra il valore arrotondato all'intero più vicino per una resa grafica pulita). Se il giocatore non ha una taglia sulla testa, non restituisce nulla (vuoto).
+
+📌 Requisiti di Sistema
+Per funzionare correttamente, il plugin necessita dei seguenti componenti all'interno della cartella plugins:
+
+Vault (Fondamentale per il bridge economico)
+
+Un plugin di Economia (Es. EssentialsX, necessario per memorizzare i bilanci)
+
+PlaceholderAPI (Opzionale, ma caldamente consigliato per la compatibilità con la TAB)
