@@ -47,7 +47,7 @@ settings:
     min: 3000.0
     max: 5000.0
 
-📊 Integrazione PlaceholderAPI (TAB & Scoreboard)
+## 📊 Integrazione PlaceholderAPI (TAB & Scoreboard)
 Il plugin si registra nativamente su PlaceholderAPI. Puoi usare il seguente segnaposto:
 
 %bounty_val%
