@@ -26,7 +26,6 @@ Permesso: Disponibile per tutti i giocatori di default.
 ⚙ Configurazione (config.yml)
 Il file di configurazione permette di personalizzare interamente l'esperienza e attivare i test in solitaria con i mob:
 
-YAML
 # Configurazione Generale del Plugin Bounty
 
 settings:
