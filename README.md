@@ -29,17 +29,17 @@ Il file di configurazione permette di personalizzare interamente l'esperienza e 
 # Configurazione Generale del Plugin Bounty
 
 settings:
-  # Abilita/Disabilita l'incremento della taglia quando si uccidono altri giocatori
+   Abilita/Disabilita l'incremento della taglia quando si uccidono altri giocatori
   enable-player-kills: true
-  # Ogni quante kill sui player scatta l'aumento della taglia?
+   Ogni quante kill sui player scatta l'aumento della taglia?
   player-killstreak-every: 5
 
-  # Abilita/Disabilita l'incremento della taglia quando si uccidono i MOB
+   Abilita/Disabilita l'incremento della taglia quando si uccidono i MOB
   enable-mob-kills: false
-  # Ogni quante kill sui mob scatta l'aumento della taglia? (es. 1 per testare da solo)
+   Ogni quante kill sui mob scatta l'aumento della taglia? (es. 1 per testare da solo)
   mob-killstreak-every: 1
 
-  # Impostazioni sull'aumento economico della taglia (Valori in Euro)
+   Impostazioni sull'aumento economico della taglia (Valori in Euro)
   bounty-increase:
     min: 3000.0
     max: 5000.0
